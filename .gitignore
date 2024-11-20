@@ -1,0 +1,97 @@
+# Arquivos e diretórios do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Diretórios do Cache da Unity
+/[Aa]ssets/[Ss]treamingAssets/UnityCache/
+
+# Arquivos do Editor de Unity
+/[Uu]ser[Ss]ettings/
+
+# Pacotes locais
+/[Pp]ackages/com.unity.*
+
+# Diretórios da Lightmap
+/[Ll]ightmapsSnapshot
+
+# Configurações do JetBrains Rider
+.idea/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de Logs de Debug
+*.log
+
+# Arquivos criados por Unity Cloud Build
+[Uu]nity[Ll]ockfile
+
+# Backups de cenas
+*.bak
+*.swp
+*.swo
+
+# Arquivos do Visual Studio
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.user
+*.unityproj
+*.dll
+*.pdb
+*.mdb
+
+# Ignorar meta-dados de pacotes
+!/[Aa]ssets/**/*.meta
+
+# Ignorar arquivos e diretórios relacionados ao C#
+
+# Diretórios binários e de objetos
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de logs e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.userprefs
+
+# Arquivos de pacotes NuGet
+*.nupkg
+packages/
+
+# Arquivos de cache do NuGet
+*.snupkg
+.nuget/
+
+# Arquivos de bloqueio de dependência
+project.lock.json
+project.fragment.lock.json
+
+# Configuração de debug e build
+*.ilk
+*.pdb
+*.ipch
+*.aps
+*.aps.xml
+
+# Configurações de IDEs como Rider e ReSharper
+.idea/
+*.DotSettings.user
+
+# Arquivos temporários de deploy e publish
+.publish/
+.publishsettings/
+.vs/
